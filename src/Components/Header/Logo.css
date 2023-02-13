@@ -1,0 +1,10 @@
+.logo {
+  display: flex;
+  width: 10%;
+}
+
+.logo-text {
+  color: #ff385c;
+  font-size: 2rem;
+  font-weight: 600;
+}
