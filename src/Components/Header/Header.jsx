@@ -1,5 +1,6 @@
 import React from 'react';
 import Logo from './Logo';
+import User from './User';
 import './Header.css';
 
 const Header = () => {
@@ -7,6 +8,7 @@ const Header = () => {
   return (
     <div className="header">
       <Logo />
+      <User />
     </div>
   );
 
