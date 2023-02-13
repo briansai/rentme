@@ -1,4 +1,6 @@
 .user {
   display: flex;
   align-items: center;
+  width: 24px;
+  padding-top: 10px;
 }
